@@ -3,7 +3,7 @@
 """
 import pytest
 from selene import browser, have
-from selene.support.shared import browser, config
+from selene.support.shared import browser
 
 
 @pytest.fixture()
