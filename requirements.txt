@@ -1,2 +1,2 @@
+selene>=2.0.0b4
 pytest
-allure-pytest
